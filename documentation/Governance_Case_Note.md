@@ -11,4 +11,4 @@ Resolution:
 - Implemented certified revenue definitions, governed data layers, and controlled semantic measures.
 
 Prevention:
--- Built a validation dashboard to continuously detect and explain metric drift.
+- Built a validation dashboard to continuously detect and explain metric drift.
