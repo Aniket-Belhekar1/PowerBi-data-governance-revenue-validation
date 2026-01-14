@@ -1,4 +1,4 @@
-#Certified Metric #1 — REVENUE
+# Certified Metric #1 — REVENUE
 
 - Attribute:	Value
 - Metric Name:	Revenue
@@ -13,7 +13,7 @@
 - Data Owner:	Business Finance
 - Metric Status:	Certified
 
-#Certified Metric #2 — Orders Count	
+# Certified Metric #2 — Orders Count	
 	
 - Attribute:	Value
 - Metric Name:	Orders Count
@@ -24,7 +24,7 @@
 - Source Table:	orders_raw
 - Metric Status":	Certified
 
-#Certified Metric #3 — Active Customers	
+# Certified Metric #3 — Active Customers	
 	
 - Attribute:	Value
 - Metric Name:	Active Customers
@@ -35,7 +35,7 @@
 - Source Table":	orders_raw
 - Metric Status:	Certified
 
-#Certified Metric #4 — Average Order Value (AOV)	
+# Certified Metric #4 — Average Order Value (AOV)	
 	
 - Attribute:	Value
 - Metric Name:	Average Order Value
