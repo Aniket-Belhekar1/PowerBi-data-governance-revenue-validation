@@ -67,7 +67,7 @@ This page is used for governance validation only, not business reporting.
 ---
 
 ## Outcomes
-- Identified ~14% revenue overstatement caused by ungoverned logic
+- Identified ~22% revenue overstatement caused by ungoverned logic
 - Explained variance by category and month
 - Prevented recurrence through certified metrics and controlled modeling
 
