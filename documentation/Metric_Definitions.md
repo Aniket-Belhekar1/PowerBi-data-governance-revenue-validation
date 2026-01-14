@@ -1,17 +1,17 @@
 Certified Metric #1 — REVENUE
 
--Attribute:	Value
--Metric Name:	Revenue
--Business Definition:	Net revenue generated from completed customer orders
--Included Orders:	Order Status = Completed
--Excluded Orders:	Cancelled, Returned
--Revenue Type:	Net
--Formula:	Sales – (Sales × Discount)
--Grain:	Order line (Row ID)
--Time Dimension:	Order Date
--Source Table:	orders_raw
--Data Owner:	Business Finance
--Metric Status:	Certified
+- Attribute:	Value
+- Metric Name:	Revenue
+- Business Definition:	Net revenue generated from completed customer orders
+- Included Orders:	Order Status = Completed
+- Excluded Orders:	Cancelled, Returned
+- Revenue Type:	Net
+- Formula:	Sales – (Sales × Discount)
+- Grain:	Order line (Row ID)
+- Time Dimension:	Order Date
+- Source Table:	orders_raw
+- Data Owner:	Business Finance
+- Metric Status:	Certified
 
 Certified Metric #2 — Orders Count	
 	
